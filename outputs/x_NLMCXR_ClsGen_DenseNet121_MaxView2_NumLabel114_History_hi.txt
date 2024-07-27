@@ -1,0 +1,668 @@
+tuberculosis +ppd
+xxxx x days
+none . xxxx - year - old male , rule out foreign body . 
+xxxx pt is pre - op r carotid artery repair; xxxx xxxx xxxx/xxxx/sob; no hx smoking; xxxx xxxx l carotid artery repair in xxxx; pt has xxxx both xxxx operated on for rotator xxxx . 
+chest x - xxxx , <unk> views from xxxx . pre op and findings of dvt
+none available . xxxx
+none . dyspnea . shortness of breath . extremity numbness . 
+xxxx , xxxx . xxxx . 
+chest radiograph xxxx , xxxx xxxx - year - old female with chest pain
+chest xxxx , xxxx . pre - op xxxx
+positive ppd
+chest x - xxxx , <unk> views pa and lateral from xxxx . chest pain
+none
+xxxx - year - old male , pain
+none . xxxx - year - old female with congestion . 
+xxxx . xxxx - year - old male with chest pain . 
+none available xxxx
+xxxx xxxx - year - old complaining of xxxx , xxxx , history of asthma . chest pain . 
+none copd xxxx preop evaluation for lung transplant
+xxxx . pre - op evaluation for cyst removal . 
+chest x - xxxx on xxxx xxxx - year - old male with chest pain . 
+none . withdrawal from xanax . 
+none . back pain
+kidney transplant evaluation . 
+none available . dyspnea and weakness
+left - sided chest pain for <unk> days . 
+none . history of tobacco use . 
+xxxx breast cancer
+xxxx at xxxx chest pain
+xxxx sob
+xxxx xxxx for one xxxx
+xxxx , xxxx . hypertension
+xxxx . xxxx - year - old woman with pain and decreased range of motion . 
+xxxx atelectasis
+none xxxx - year - old female , bone marrow transplant xxxx workup . no chest complaints . 
+xxxx , xxxx . xxxx - year - old female . xxxx . shortness of breath for <unk> days . 
+xxxx syncope
+portable chest radiograph dated xxxx , xxxx . xxxx - year - old xxxx with recent myocardial infarction , increasing oxygen re<unk>uirements . . 
+none . xxxx
+chest x - xxxx xxxx xxxx xxxx - year - old male , history of laryngeal carcinoma , surveillance
+none evaluate for metastatic disease; surgery sched for xxxx . no chest complaints . 
+none . allergic rhinitis , sinus drainage and sore throat
+none preoperative chest x - xxxx
+chest xxxx xxxx - year - old male with dyspnea
+xxxx , xxxx xxxx . 
+xxxx , xxxx . xxxx . decreasing saturation . 
+chest x - xxxx xxxx and lateral from xxxx . xxxx - year - old male with abdominal pain . 
+left shoulder xxxx . xxxx - year - old woman with mva . 
+none . xxxx and xxxx . chest pain . vomiting and diarrhea . 
+xxxx , xxxx . xxxx
+chest <unk> views . xxxx . testis cancer
+none available . preop . 
+comparison is xxxx to chest radiograph examination dated xxxx at xxxx . xxxx - year - old male with a history of altered mental status . 
+pa and lateral chest radiograph , xxxx . xxxx - year - old male with left upper quadrant pain , chest pain . 
+pa and lateral views of the chest on xxxx , xxxx ct scan of the thorax on xxxx , xxxx . decreased oxygen saturation . 
+chest x - xxxx xxxx . chest pain , correlate with v/<unk> scan . 
+none available . xxxx - year - old male with weakness . 
+none . difficulty breathing . 
+xxxx rule out pneumonia
+ct of the thorax on xxxx , xxxx xxxx - year - old xxxx with chest pain . 
+pa and lateral chest radiographs xxxx . xxxx - year - old male with shortness of breath . 
+none . chronic xxxx
+none . chest pain x<unk> days . vomiting . 
+none xxxx - year - old female with chest pain
+none . xxxx - year - old xxxx with shortness of breath . 
+none . xxxx - year - old female with xxxx . 
+none available . xxxx - year - old male with xxxx . 
+none . xxxx - year - old xxxx with xxxx . 
+none xxxx - year - old female with xxxx and syncope
+icd/ppm implant;
+none . positive tb skin test . 
+the patient is a xxxx - year - old female with chest pain and xxxx onset right hand numbness and inability to xxxx . history of heart bypass surgery many years ago . 
+chest x - xxxx xxxx . xxxx - year - old female with xxxx . 
+none available . xxxx x<unk> weeks
+none available . xxxx - year - old male with copd . 
+xxxx xxxx - year - old female , pain , short of breath
+none . preop bariatric surgery . 
+chest radiograph xxxx , xxxx xxxx - year - old female with xxxx
+none . xxxx - year - old , mva , chest pain
+none available . xxxx - year - old xxxx , mvc . 
+none . xxxx - year - old female with xxxx . . 
+xxxx , xxxx . dyspnea
+none . kidney transplant evaluation . 
+xxxx , xxxx . xxxx - year - old xxxx , uveitis . 
+none chest pain
+none xxxx - year - old male with xxxx , non - xxxx , <unk> . <unk>
+none available chest pain
+pa and lateral chest radiograph xxxx . xxxx - year - old male with xxxx . 
+pa and lateral views of the chest dated xxxx . xxxx - year - old female , xxxx . 
+outside study dated xxxx . testicular carcinoma . 
+none chest pain and xxxx symptoms
+none . shortness of breath , throat pain
+chest portable frontal ap xxxx . chest pain . 
+hemorrhage , post - op change . 
+in xxxx , xxxx . pt with left sided chest pain , nonradiating . pt with xxxx xxxx smoking histo
+chest x - xxxx , xxxx xxxx - year - old female with chest pain
+two - view chest radiograph dated xxxx , xxxx . . xxxx - year - old xxxx with chest pain . 
+xxxx xxxx - year - old female with history of myelomeningocele , now presenting with xxxx and chest pain
+chest <unk> views . xxxx . 
+none available . xxxx - year - old female with dyspnea . 
+none . dyspnea . 
+two - view chest radiograph dated xxxx , xxxx . xxxx - year - old male shortness of breath . . 
+none . xxxx - year - old with osteogenic sarcoma . followup study . 
+none available . the patient is a xxxx - year - old female with dyspnea . 
+none xxxx , xxxx , dyspnea
+pa and lateral chest redressed xxxx xxxx - year - old female with breast mass and smoking history . 
+xxxx . xxxx . 
+none . edema . 
+xxxx , xxxx chronic xxxx , history pleural effusion , copd . 
+none . ovarian carcinoma . 
+none . xxxx - year - old with chest pain . 
+none . xxxx - year - old woman , prior to enbrel therapy . . 
+chest x - xxxx dated xxxx . chest pain . 
+none available chest pain
+xxxx xxxx
+none available . back pain . <unk>aw pain . 
+xxxx , xxxx . xxxx . 
+xxxx , xxxx . epigastric pain
+none . chest and back pain x<unk> months . 
+chest pain
+none . xxxx year old with chest pain . 
+xxxx xxxx , asthma , dyspnea
+none . xxxx , dyspnea
+chest x - xxxx xxxx , xxxx xxxx - year - old female , dyspnea . 
+none chest pain
+xxxx , xxxx dyspnea , nausea and vomiting , xxxx
+none indication cirrhosis evaluate pre liver transplant
+none . xxxx - year - old with chest pain . 
+pa and lateral views of the chest from xxxx . xxxx - year - old male with pneumonia . 
+pa and lateral views of the chest from xxxx . xxxx - year - old female with xxxx and shortness of breath . 
+none . xxxx - year - old female with xxxx . 
+none available xxxx year - old female , preop xxxx with xxxx . 
+cystic fibrosis exacerbation . 
+none . xxxx - year - old female . chest pain . 
+none dyspnea , sub<unk>ective fevers , arthritis , immigrant from bangladesh
+none worsening dyspnea , history of coronary artery disease
+xxxx
+none . xxxx - year - old with shortness of breath . 
+xxxx with contrast dated xxxx sarcoidosis
+none throat pain
+xxxx , xxxx . xxxx - year - old female . pain . 
+xxxx - year - old male , pain comparisxxxxxxxx
+xxxx . xxxx . 
+none preoperative for kidney pancreas transplant
+none . xxxx - year - old with xxxx . 
+ct scan of the thorax on xxxx . left rib pain . 
+none . chest pain . 
+none unavailable
+none . dyspnea . 
+xxxx x<unk> weeks
+xxxx , xxxx xxxx - year - old xxxx with xxxx . 
+none . xxxx . 
+none available . the patient is a xxxx - year - old xxxx with xxxx and hyperglycemia . 
+xxxx , xxxx . bladder cancer . 
+xxxx xxxx
+portable chest radiograph xxxx followup chest tube . evaluate for pneumothorax . 
+bladder cancer
+none . dyspnea . 
+none available xxxx - year - old female with asthma , recent pneumonia
+none chest pain
+none available . xxxx - year - old male with chest pain . 
+xxxx , xxxx . xxxx - year - old , rule out neck abscess . 
+none xxxx
+xxxx chest pain
+none . xxxx - year - old female with history of goiter . 
+none . chest pain . 
+none . xxxx , xxxx . 
+ultrasound guided left thoracentesis xxxx , outside xxxx xxxx pleural effusion
+chest x - xxxx , single view portable from xxxx , xxxx . the patient is an xxxx - year - old woman who xxxx xxxx stepping xxxx a ladder . the patient complains of right hip and right femur pain . 
+chest <unk> view dated xxxx . xxxx - year - old female with chest pain . 
+xxxx , xxxx . xxxx - year - old xxxx , chest pain . 
+xxxx , xxxx . xxxx
+none . xxxx year old with chest pain . 
+xxxx , xxxx followup on reported pneumonia
+none . preoperative evaluation
+chest x - xxxx and lateral from xxxx . remote h/o pos ppd
+xxxx . dorv , post surgery
+none . xxxx - year - old woman with chest pain . . 
+xxxx , xxxx . chest pain . 
+two views chest xxxx , xxxx; ct chest xxxx , xxxx . xxxx - year - old female history of hodg<unk>in's lymphoma . 
+xxxx , xxxx . irregular heartbeat , right hip replacement . 
+xxxx , lung transplant evaluation . 
+none . xxxx - year - old female with abnormal xxxx loss
+none xxxx with xxxx
+chest radiograph xxxx , xxxx xxxx - year - old female with shortness of breath
+none . xxxx . <unk> , <unk> . <unk> , <unk> . <unk> bronchitis , fatigue , sob
+none . xxxx year old right - sided rib pain after a xxxx vehicle accident one xxxx ago . 
+xxxx - year - old male , dizziness , xxxx
+none xxxx - year - old female , dizziness . 
+none xxxx - year - old female , pain
+chest <unk> views pa and lateral xxxx , xxxx p . m . chest pain
+none . xxxx . 
+pa and lateral chest x - xxxx dated xxxx . xxxx - year - old female with dyspnea . 
+xxxx , xxxx chest pain
+none . chest pain , shortness of breath , xxxx , dizziness . 
+none available . xxxx - year - old male with xxxx , xxxx , and xxxx . 
+ct chest xxxx shortness of breath
+none available dyspnea
+xxxx , xxxx . preop circumcision . 
+none available . shortness of breath . 
+xxxx palpitation
+xxxx - year - old female , short of breath , chest pain
+two - view chest from xxxx . xxxx - year - old male with dyspnea . 
+pa and lateral chest x - xxxx dated xxxx . xxxx - year - old male with history of xxxx . 
+none . chest pain . 
+xxxx . xxxx - year - old xxxx with chest pain . 
+the patient is a xxxx - year - old female with xxxx . 
+xxxx , xxxx . preop knee revision . 
+none chest pain
+xxxx , xxxx . xxxx <unk>▁feet from ladder . right shoulder pain . 
+none melanoma
+xxxx . xxxx - year - old male with presyncope . 
+none chest pain
+a portable chest radiograph from xxxx . xxxx - year - old male with history of membranoproliferative glomerulonephritis also having shortness of breath . 
+xxxx difficulty breathing , history of emphysema
+chest radiograph xxxx xxxx xxxx - year - old xxxx with productive xxxx
+none available . xxxx , xxxx x<unk> xxxx . concern for left lower lobe pneumonia on physical exam . 
+chest radiograph xxxx xxxx - year - old male with chest pain . 
+xxxx , xxxx . xxxx
+chest x - xxxx xxxx chest pain and hypertension
+none . xxxx - year - old woman with xxxx . 
+pa and lateral chest x - xxxx dated xxxx . xxxx - year - old female with chest pain . 
+chest x - xxxx dated xxxx , xxxx . <unk> . <unk> shortness of breath
+xxxx , xxxx . chest pain/dyspnea
+two - view chest radiograph dated xxxx , xxxx . xxxx - year - old female with tobacco use , xxxx loss . 
+xxxx - year - old male with xxxx onset xxxx xxxx/xxxx
+xxxx , xxxx xxxx and congestion for months . 
+ct chest on xxxx . portable chest on xxxx . xxxx - year - old woman with hematemesis . 
+xxxx , xxxx . diminished breath sounds throughout
+none abdominal pain , foreign body sensation in distal esophagus after attempting to xxxx pills
+chest ct on xxxx . xxxx - year - old xxxx with history of pneumonia . 
+none xxxx - year - old male , chest pain . 
+none . the patient is a xxxx - year - old male with left upper abdominal pain . 
+esophageal cancer
+none . xxxx - year - old woman with chest pain and shortness of breath . . 
+ct chest xxxx . chest pain . 
+none xxxx for <unk> xxxx , xxxx
+none postmenopausal bleeding cxr xxxx <unk> . <unk>
+none . xxxx - year - old male with chest pain . 
+chest pain . 
+xxxx hemoptysis
+frontal chest radiograph dated xxxx , xxxx . xxxx - year - old woman , hypoxia . 
+xxxx , xxxx . shortness of breath , wheezing , xxxx . 
+none . xxxx year old female . bladder cancer
+none xxxx;
+xxxx . cancer of the appendix . 
+ct chest angiography , xxxx xxxx , preop for abdominal aortic aneurysm repair
+none xxxx - year - old female , xxxx . 
+none available . xxxx - year - old male with productive xxxx . 
+none . chest pain . 
+none . xxxx and xxxx . 
+chest x - xxxx , single view frontal from xxxx xxxx a . m . repeat after stab wound
+<unk> . <unk>
+none . xxxx - year - old female with copd and left pleuritic chest pain . 
+two - view chest radiograph dated xxxx , xxxx . xxxx - year - old female with dyspnea . . 
+xxxx , xxxx . sp cabg sob no rales
+xxxx and wheezing x<unk> xxxx
+single view of the chest on xxxx xxxx - year - old male with dyspnea and crackles on exam . 
+none . chest pain . 
+xxxx , xxxx . chest pain . 
+none . medical xxxx , shortness of breath . 
+comparison is xxxx to chest radiograph examination dated xxxx . xxxx - year - old female with chest pain . 
+chest x - xxxx xxxx xxxx
+xxxx . chest pain . 
+none . xxxx with history of positive tb skin test . 
+none . xxxx year - old male , chest pain
+xxxx hepatitis c . hepatocellular carcinoma . 
+xxxx short of breath
+xxxx xxxx - year - old male with seizure , ethanol abuse
+none xxxx , history of acute bronchitis
+pa and lateral views of the chest from xxxx . xxxx - year - old male with peripheral edema . 
+comparison is xxxx to chest radiograph examination dated xxxx . xxxx - year - old male with history of idiopathic pulmonary fibrosis presents for evaluation . 
+chest pain
+none xxxx
+xxxx - year - old female with edema and dyspnea . 
+none xxxx
+xxxx xxxx and xxxx
+none xxxx - year - old female with dyspnea . 
+none xxxx - year - old male with xxxx . 
+xxxx melanoma , left lung surgery
+none . dyspnea . 
+xxxx and hemoptysis
+ct abdomen and pelvis xxxx , xxxx xxxx - year - old female with xxxx and leukocytosis
+chest <unk> views . xxxx . 
+xxxx , xxxx . xxxx
+xxxx xxxx x <unk> months , xxxx; history brain tumor
+none . the patient is a xxxx - year - old male with positive ppd . history of bcg vaccination . 
+xxxx - year - old female , chest pain
+xxxx , xxxx . left chest , shoulder and midback pain . 
+none xxxx distress
+xxxx , xxxx preop bariatric surgery
+none . xxxx - year - old male with dyspnea . 
+chest x - xxxx , xxxx . xxxx - year - old female with abdominal pain
+chronic xxxx . 
+none . xxxx - year - old xxxx with shortness of breath , xxxx . . 
+none shortness of breath , xxxx
+none available . xxxx - year - old female with chest tightness . 
+xxxx , xxxx hypercalcemia
+xxxx , xxxx . xxxx , wheezing , copd , xxxx , edema
+xxxx , xxxx . pre - op xxxx ventral hernia repair , copd , xxxx , emphysema , dyspnea
+two view chest radiograph xxxx , xxxx . . xxxx - year - old woman , elbowed in abdomen . . 
+none testis ca
+xxxx xxxx
+none . xxxx xxxx with joint pain , weakness
+ap portable chest radiograph dated xxxx , xxxx . xxxx - year - old xxxx with dyspnea . 
+ap portable chest x - xxxx dated xxxx . xxxx - year - old female with history of seizure . 
+xxxx , xxxx prostate cancer
+pain
+xxxx , xxxx . please evaluate for evidence of active tb (for supportive housing placement)
+xxxx , xxxx . xxxx - year - old female involved in xxxx vehicle collision . 
+none . chest pain
+none . xxxx - year - old woman with syncopal episode . . 
+xxxx films of the chest dated xxxx . xxxx - year - old male , xxxx . 
+ct of the chest with contrast xxxx . xxxx - year - old male with chest pain . 
+pa and lateral views of the chest dated xxxx . xxxx - year - old female , shortness of breath . 
+xxxx . xxxx - year - old with shortness of breath hypoxia . 
+two views of the chest dated xxxx . xxxx - year - old with dyspnea . 
+chf and shortness of breath . 
+none . chest pain , nonproductive xxxx . cutaneous xxxx . 
+none . xxxx year old with diarrhea and lethargy . 
+chest radiograph from xxxx , xxxx . shortness of breath with productive xxxx
+xxxx xxxx
+none . chest pain
+two views of the chest dated xxxx . xxxx - year - old with chest pain this xxxx . 
+chest radiograph on xxxx . xxxx - year - old xxxx with xxxx . preop examination . 
+none available . anxiety and difficulty breathing
+none . xxxx - year - old with wheezing . 
+none . xxxx - year - old with xxxx and xxxx . 
+none available . chest pain . 
+none persistent xxxx
+chest radiograph on xxxx . xxxx - year - old male with chest pain . 
+none . prostate cancer
+xxxx , xxxx chest pain
+none available . xxxx - year - old female with chest pain and pelvic pain . 
+comparison is xxxx to chest radiograph examination dated xxxx . xxxx - year - old male chest pain . 
+productive xxxx
+two views of the chest dated xxxx . xxxx - year - old with xxxx . 
+pa and lateral chest x - xxxx dated xxxx . xxxx - year - old male shortness of breath . 
+chest radiograph from xxxx , xxxx . dyspnea . 
+xxxx dyspnea
+chest pain . 
+none available xxxx x<unk> weeks . chest pain . 
+none slipped , xxxx back on right side
+chest x - xxxx dated xxxx at xxxx hours . xxxx - year - old female , transplant workup . 
+none available xxxx - year - old female with colon sinus symptoms for <unk> weeks
+posterior right rib pain
+pa and lateral chest radiograph xxxx/xxxx the xxxx - year - old female with chest pain
+none . xxxx - year - old male , copd and xxxx . 
+xxxx +ppd
+none allergic reaction
+none . preop anesthesia xxxx
+none xxxx , headaches and difficulty breathing
+none xxxx - year - old female with history of asthma , preoperative evaluation for back surgery
+none . xxxx - year - old woman , xxxx vehicle collision . 
+none xxxx - year - old male status post xxxx
+ct of the chest and two - view chest radiograph dated xxxx , xxxx . . xxxx - year - old woman with lung cancer , shortness of breath . . 
+xxxx , xxxx altered mental status
+none xxxx , xxxx and shortness of breath
+none . left rib pain starting yesterday . using crutches for bro<unk>en foot . 
+none xxxx - year - old male , acute iritis , no chest complaints . 
+none xxxx - year - old female , pain , alleged physical assault
+none . the patient is a xxxx - year - old male , preop for bilateral t<unk>a . nonsmoker , cardiac stent xxxx . otherwise no complaints . 
+xxxx , xxxx . xxxx - year - old female , followup asthma exacerbation . 
+none chest pain and bilateral hand numbness . 
+xxxx copd
+xxxx . xxxx . 
+none . xxxx . 
+none . xxxx - year - old xxxx with dyspnea . 
+none available xxxx - year - old female , axillary lymphadenopathy
+xxxx . xxxx , chest pain . 
+pa and lateral views of the chest from xxxx . xxxx year old female with xxxx for <unk> years . 
+none . pre - bone marrow transplant xxxx . 
+none . xxxx , nausea , vomiting , chest pain . 
+none
+none . xxxx , preoperative evaluation , v<unk> . <unk> , <unk> . <unk> . 
+sob on exertion
+pa and lateral chest radiographs xxxx . xxxx - year - old female with right - sided chest pain and recent xxxx . 
+none . xxxx - year - old xxxx with pulmonary nodule
+none . xxxx . 
+none xxxx bmt w/u;
+none sob with chest pain
+none available for fatigue , low hemoglobin , shortness of breath . 
+ct chest xxxx xxxx - year - old male with history renal xxxx , <unk> . <unk> . evaluate for metastatic disease . 
+xxxx
+xxxx , xxxx . nausea , vomiting x<unk> weeks . dialysis patient . 
+none xxxx doesn't▁feel well , under a xxxx of xxxx
+xxxx xxxx - year - old male , chest pain
+none . xxxx - year - old woman with abdominal pain
+dyspnea , shortness of breath , lightheadedness . 
+xxxx , xxxx chest pain , pneumothorax . 
+chest x - xxxx dated xxxx preoperative lung transplant . 
+none <unk> . <unk> , <unk>yof with chest pain; : attn : sternum , direct xxxx to sternum <unk> days ago
+none . xxxx . 
+none . chest pain . 
+none . xxxx - year - old female with dyspnea . 
+none . xxxx - year - old female . chest pain . 
+none available . altered mental status
+none . xxxx - year - old female , xxxx with sputum production . . 
+none available xxxx - year - old male with dyspnea
+none available . the patient is a xxxx - year - old xxxx with chest pain , weakness , blurry vision . the patient has a history of cardiac bypass and stent placement . 
+two - view chest radiograph dated xxxx , xxxx . xxxx - year - old woman with xxxx . 
+xxxx , xxxx . xxxx - year - old female . shortness of breath . 
+none cp , sob
+none . xxxx - year - old male with dyspnea . 
+none chest pain
+none xxxx - year - old female , xxxx , xxxx . 
+xxxx , xxxx xxxx - year - old female with xxxx for one xxxx
+none xxxx - year - old male , chest pain and dyspnea
+none xxxx - year - old male with chest pain
+chest x - xxxx xxxx xxxx in bathtub
+pa and lateral chest x - xxxx dated xxxx . xxxx - year - old male , hemoptysis , chest pain and shortness of breath . 
+none xxxx - year - old with shortness of breath . 
+none chest pain
+none . dyspnea . chest pain . 
+none available . xxxx , recent thyroid surgery for thyroid cancer
+none . xxxx - year - old male . left chest pain . alleged physical assault . 
+xxxx xxxx , xxxx . recurrent xxxx
+xxxx , xxxx xxxx pulmonary nodule . 
+chest pain . 
+xxxx at xxxx p . m . chest pain . 
+none allogeneic bmt w/u lab;
+none bone marrow transplant xxxx evaluation
+chest pain . 
+chest x - xxxx , single view portable from xxxx , xxxx . the patient is a xxxx - year - old woman , preop lung transplant . 
+sore throat and xxxx for one xxxx
+gynoid <unk> , xxxx xxxx - year - old female , xxxx . screening exam . 
+none . xxxx - year - old female with chest pain and shortness of breath . . 
+ap chest radiograph dated xxxx , xxxx . xxxx - year - old xxxx with chest pain and shortness of breath . . 
+none available short of breath
+none available . chest pain
+portable chest x - xxxx xxxx , xxxx . pa and lateral chest x - xxxx xxxx , xxxx . xxxx - year - old xxxx , followup bronchiectasis . history of cystic fibrosis . 
+xxxx xxxx - year - old with chest pain
+xxxx , xxxx . chest pain
+none . xxxx . 
+none available . xxxx - year - old female with one xxxx of productive xxxx . 
+comparison is xxxx to chest radiograph examination dated xxxx . xxxx - year - old male with a history of partial right lung resection presents for evaluation . 
+none pain , syncope
+none . preoperative exam for bariatric surgery . 
+pa lateral views the chest dated xxxx . xxxx - year - old female , right heart failure . 
+none . right - sided chest pain yesterday , worse <unk> hour ago . 
+xxxx , xxxx . xxxx - year - old female . xxxx . 
+none xxxx h/o smoking xxxx for causes . pain in neck and xxxx . 
+none . cardiac stents , preop
+none . xxxx - year - old female with history of asthma and dyspnea on exertion . 
+none chronic xxxx
+xxxx chest pain
+none . xxxx - year - old with the dyspnea . 
+none xxxx - year - old male with xxxx onset chest pain
+chest radiographs xxxx <unk> and ct chest with contrast xxxx . xxxx - year - old female , xxxx , known right pleural effusion . 
+xxxx , xxxx . xxxx - year - old female . syncope . 
+none . xxxx - year - old with dyspnea . 
+ct the chest dated xxxx , xxxx . . xxxx - year - old male with xxxx , right lower lobe rales . . 
+xxxx - year - old male , hypoxia
+pa and lateral views of the chest on xxxx , xxxx . history of positive tb . 
+single view chest radiograph dated xxxx , xxxx . xxxx - year - old male xxxx with chronic xxxx , whee<unk>e , tachycardia . . 
+xxxx - year - old female with xxxx onset of chest pain . 
+xxxx , xxxx . chronic xxxx with <unk> lbs wt loss
+xxxx , xxxx . chest pain
+none . bradycardia and syncope . 
+none sob
+none xxxx - year - old female , pre - syncope
+none . <unk> . <unk> xxxx
+none shortness of breath
+none . xxxx - year - old male with chronic kidney disease; preoperative evaluation . 
+none available . the patient is a xxxx - year - old male who suffered a xxxx . 
+none . back pain and hemoptysis . 
+none . xxxx - year - old with xxxx for <unk> days . previously seen for vomiting and ear pain . 
+none available . xxxx - year - old woman with hemoptysis
+ct chest xxxx xxxx - year - old woman with chest pain . 
+none . history of xxxx . increasing right lower extremity pain . 
+xxxx
+xxxx , <unk> xxxx - year - old woman with dyspnea . 
+xxxx - year - old female with chest pain . 
+pa and lateral chest x - xxxx dated xxxx . xxxx - year - old male with chest pain . 
+chest x - xxxx on xxxx xxxx - year - old female with leukocytosis and d<unk>a
+xxxx xxxx - year - old female , nonsmoker , preoperative evaluation , prolapse
+none left lower chest pain with xxxx . r/o pneumonia
+xxxx history of sarcoidosis , xxxx , xxxx
+none . right flan<unk> pain , right - sided pain . diminished breath sounds . 
+none bilateral breast cancer
+none xxxx - year - old male with history of mitral valve xxxx
+yesterday . xxxx - year - old with icd implantation . 
+chest x - xxxx xxxx , xxxx xxxx - year - old male , copd , xxxx , xxxx . 
+xxxx , xxxx . xxxx - year - old female . preoperative chest x - xxxx . left wrist fracture . 
+two views of the chest dated xxxx . xxxx - year - old with pain and shortness of breath . low energy . 
+none . back pain and xxxx
+chest x - xxxx on xxxx xxxx - year - old female chest pain . 
+two - view chest from xxxx . xxxx - year - old male with altered mental status . 
+xxxx , xxxx . xxxx , hypertension . 
+sternum radiograph xxxx , xxxx xxxx - year - old female , abdominal pain
+none this is a xxxx - year - old woman with midsternal chest pain . 
+none difficulty breathing for one xxxx . right lower quadrant pain for <unk> months . 
+none . xxxx - year - old xxxx with chest pain . 
+xxxx xxxx shortness of breath , hodg<unk>in's lymphoma
+comparison is xxxx to chest repeat examination dated xxxx . xxxx year - old female with headache an chest pain . 
+multiple chest x - xxxx , the most recent dated xxxx . history of central line placement . 
+none . xxxx and xxxx symptoms for one xxxx . the patient's lower abdomen was shielded for this exam . 
+xxxx - year - old male with xxxx for <unk> weeks . possible pneumonia . 
+xxxx chest pain
+none xxxx - year - old female , xxxx
+pa and lateral chest x - xxxx dated xxxx . xxxx year - old female with xxxx . 
+chest x - xxxx , xxxx . xxxx - year - old female with chest pain
+none . xxxx - year - old xxxx with dyspnea . history of cystic fibrosis . 
+none xxxx , xxxx vehicle collision
+none <unk> lb xxxx loss in <unk> xxxx , xxxx term xxxx
+chest xxxx shortness of breath
+chest radiograph on xxxx xxxx - year - old xxxx with chest pain and shortness of breath
+none available . hemoptysis
+xxxx , xxxx xxxx - year - old woman with chest pain . 
+pain and difficulty breathing . 
+none . productive xxxx . 
+none . left - sided chest pain x<unk> days . 
+none xxxx - year - old female , syncope
+xxxx xxxx - year - old female with mid back pain that radiates to rib . xxxx recent injury . 
+none multiple myeloma bmt w/u lab;
+none . chest pain . 
+radiograph from xxxx . dyspnea and xxxx
+none . dyspnea . 
+none . 
+xxxx xxxx - year - old female with altered mental status
+none available preoperative exam for hip surgery
+xxxx , xxxx abdominal pain
+xxxx shortness of breath , xxxx , sarcoidosis
+none . rule out pneumonia/xxxx . 
+xxxx , xxxx . chest pain
+xxxx chest pain this a . m . 
+xxxx , xxxx . xxxx - year - old . chest pain . 
+none . xxxx year old male with chest pain . 
+none xxxx and wheezing
+xxxx , xxxx . xxxx - year - old female . altered mental status . 
+none . achalasia
+none . xxxx - year - old woman with <unk> years of xxxx and dyspnea . . 
+chest radiographs xxxx . xxxx - year - old female , xxxx . 
+xxxx ovarian hyperstimulation syndrome , rest for abnormality
+xxxx xxxx - year - old male with xxxx
+none . preop bariatric surgery
+chest pain
+ct of the chest dated xxxx , xxxx . xxxx - year - old woman , xxxx . . 
+none indication : evaluate for metastatic disease;
+none . xxxx - year - old woman , positive ppd . 
+pa and lateral chest x - xxxx dated xxxx . xxxx - year - old male who complains of xxxx with inhalation and left - sided chest pain , left mid quadrant pain , concern for stones . 
+xxxx . kidney cancer . 
+none indication : history of tobacco use;
+chest pain
+xxxx xxxx aml/bone marrow transplant workup
+none syncope
+xxxx , xxxx . cp
+none . xxxx - year - old female . left numbness after xxxx . 
+none . xxxx - year - old male with chest pain . 
+none . xxxx - year - old male with chest pain . 
+none chest pain shortness of breath , hypertension
+none . chest pain
+none xxxx , xxxx
+ap chest radiograph xxxx preoperative evaluation . patient on home oxygen . 
+xxxx germ cell tumor bmt w/u lab;
+none . difficulty breathing . 
+xxxx , xxxx . chest pain and shortness of breath . 
+none . chest pain . 
+none history hypertension , high cholesterol , <unk> with persistent xxxx . 
+none . xxxx xxxx
+xxxx evaluate for tuberculosis
+xxxx , xxxx xxxx - year - old woman with chest pain and dyspnea . 
+none . syncope . xxxx attac<unk> . 
+status post assault . altered mental status and upper thoracic hematoma
+chest radiograph xxxx/xxxx . xxxx - year - old male with shortness of breath and xxxx . 
+none . xxxx - year - old female with flan<unk> pain . . 
+none . chest pain . 
+ct of the chest dated xxxx evaluate for pneumonia
+none available this institution . 
+none . xxxx - year - old woman with chest pain
+none . xxxx year old chest pain and xxxx . 
+none . xxxx year old with chest pain . 
+xxxx with nipple markers test ca; r/o xxxx
+none . chf
+chest pain
+none xxxx - year - old female , xxxx , xxxx of breath , chest pain
+two views of the chest xxxx . pain . 
+none status post pacemaker implantation
+none . xxxx - year - old female with a history of an elevated xxxx - xxxx . 
+xxxx - year - old female with anterior midline chest pain . 
+none . preoperative evaluation
+none . sore throat . xxxx . chest pain . 
+xxxx , xxxx headache , xxxx , and congestion . 
+none available . xxxx - year - old male with xxxx . 
+pa and lateral chest radiographs xxxx . xxxx - year - old female with xxxx symptoms . 
+none . passed out , xxxx
+chest pain
+xxxx , xxxx . shortness of breath . 
+none
+none . 
+none . nausea and vomiting
+xxxx - year - old male , xxxx
+chest x - xxxx xxxx , xxxx . xxxx - year - old woman with chest pain . 
+none
+xxxx , xxxx . continued exacerbations
+xxxx - year - old xxxx , status post icd/pacemaker placement . 
+xxxx copd
+none . pain . 
+xxxx - year - old male with pain . 
+xxxx evaluate for metastatic disease; history of renal cancer; preop adrenalectomy , left - sided pain
+xxxx , xxxx xxxx - year - old xxxx with chest pain . 
+xxxx , xxxx xxxx - year - old female with shortness of breath . history of copd . 
+xxxx xxxx x <unk> weeks . 
+ct chest xxxx , xxxx , chest x - xxxx xxxx xxxx - year - old female with xxxx onset , xxxx with wheezing in bilateral lung xxxx . 
+xxxx chest , xxxx abdominal ct . the patient is a xxxx - year - old male with abdominal pain , question of small bowel obstruction . xxxx onset xxxx and wheezing in bilateral lung xxxx . 
+chest radiograph on xxxx xxxx - year - old woman with back pain
+none . xxxx - year - old female with chest pain . 
+none . xxxx - year - old female , chest pain . 
+pa and lateral chest xxxx . xxxx year old xxxx by ambulance for chest pain . 
+none . chest pain
+none xxxx loss , xxxx
+none available xxxx - year - old female with positive ppd
+chest x - xxxx xxxx xxxx - year - old woman with history of breast cancer . 
+none chest pain , dyspnea
+history of breast cancer with mastectomy . copd . 
+none pt c/o increased shortness of breath
+ap chest dated xxxx . xxxx - year - old female with dyspnea . 
+xxxx , xxxx . sob
+none . xxxx - year - old male with shortness of breath . . 
+xxxx xxxx , xxxx
+xxxx - year - old male , dyspnea
+none , <unk> . <unk> xxxx
+xxxx , xxxx complains of intermittent left arm pain
+none dyspnea
+xxxx metastatic testicular cancer
+xxxx , xxxx . xxxx - year - old chest pain . 
+two - view chest radiograph dated xxxx , xxxx . . xxxx - year - old female , preop cholecystectomy , xxxx , history of sarcoidosis . . 
+xxxx xxxx and chest pain
+xxxx . chest pain . 
+two - view chest radiograph dated xxxx , xxxx . xxxx - year - old woman with chest pain . 
+xxxx . lymphadenopathy . 
+syncope
+two view chest radiograph dated xxxx , xxxx . xxxx - year - old female with xxxx , pulmonary hypertension , dementia . 
+none xxxx;
+none . routine exam . 
+none . numbness and tingling in the left arm , nausea vomiting
+xxxx the patient is a xxxx year - old old male with chest pain . 
+none . xxxx - year - old woman with xxxx
+none status post cardiac catheteri<unk>ation . 
+xxxx , xxxx . xxxx - year - old woman , short of breath . 
+two views of the chest dated xxxx . xxxx - year - old with osteoarthritis of the left hip . preop evaluation for hip replacement . 
+none hypoxia;
+none xxxx - year - old female with chest pain and shortness of breath since xxxx . 
+xxxx . xxxx - year - old with shortness of breath . 
+none xxxx - year - old male , xxxx . 
+pa lateral views the chest from xxxx . xxxx - year - old female dyspnea . 
+xxxx , xxxx <unk> metastatic colon cancer
+xxxx . xxxx - year - old woman with chest pain . 
+xxxx , xxxx . xxxx - year - old with dyspnea . 
+xxxx preop xxxx
+none available . xxxx - year - old female with xxxx . 
+chest xxxx . xxxx - year - old female with xxxx . 
+this is a xxxx - year - old xxxx with diarrhea and abdominal pain with history of smoking . 
+chest pain . 
+chest x - xxxx on xxxx xxxx - year - old male with xxxx onset pleuritic pain . 
+none . xxxx - year - old male , positive ppd , asymptomatic , rule out tb . 
+xxxx , dyspnea
+none available . xxxx - year - old female with positive ppd . 
+chest x - xxxx xxxx . xxxx year old , xxxx loss . 
+none . xxxx - year - old male . chest pain and pressure . xxxx . 
+xxxx complaining of shortness of breath
+none available xxxx - year - old xxxx with chest pain . 
+abdomen ct xxxx . chronic xxxx and diminished breath sounds; bilateral knee pain . 
+comparison is xxxx to xxxx examination dated xxxx . xxxx - year - old male with xxxx . 
+none . 
+xxxx , xxxx . dyspnea/xxxx
+none . xxxx . 
+chest radiograph xxxx xxxx - year - old male with asthma
